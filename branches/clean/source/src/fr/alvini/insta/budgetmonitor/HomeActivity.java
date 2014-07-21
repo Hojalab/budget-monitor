@@ -29,12 +29,9 @@ import android.widget.Button;
 import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
-import fr.alvini.insta.budgetmonitor.activities.AjoutBudget;
-import fr.alvini.insta.budgetmonitor.activities.AjoutOperation;
-import fr.alvini.insta.budgetmonitor.activities.CategoryList;
-import fr.alvini.insta.budgetmonitor.adaptater.CustomList;
-import fr.alvini.insta.holographlib.PieGraph;
-import fr.alvini.insta.holographlib.PieSlice;
+import fr.alvini.insta.budgetmonitor.activities.*;
+import fr.alvini.insta.budgetmonitor.adaptater.*;
+import fr.alvini.insta.holographlib.*;
 
 public class HomeActivity extends FragmentActivity implements ActionBar.TabListener {
 
